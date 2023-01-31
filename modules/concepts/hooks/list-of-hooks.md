@@ -1181,7 +1181,6 @@ actionWatermark
 
     Located in: 
 
-    - /classes/FileUploader.php
     - /classes/webservice/WebserviceSpecificManagementImages.php
     - /controllers/admin/AdminImportController.php
     - /controllers/admin/AdminProductsController.php
